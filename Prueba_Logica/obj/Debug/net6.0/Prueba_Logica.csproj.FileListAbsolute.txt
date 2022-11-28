@@ -1,0 +1,15 @@
+B:\Proyectos\Proyectos C#\Prueba_Logica\Prueba_Logica\bin\Debug\net6.0\Prueba_Logica.exe
+B:\Proyectos\Proyectos C#\Prueba_Logica\Prueba_Logica\bin\Debug\net6.0\Prueba_Logica.deps.json
+B:\Proyectos\Proyectos C#\Prueba_Logica\Prueba_Logica\bin\Debug\net6.0\Prueba_Logica.runtimeconfig.json
+B:\Proyectos\Proyectos C#\Prueba_Logica\Prueba_Logica\bin\Debug\net6.0\Prueba_Logica.dll
+B:\Proyectos\Proyectos C#\Prueba_Logica\Prueba_Logica\bin\Debug\net6.0\Prueba_Logica.pdb
+B:\Proyectos\Proyectos C#\Prueba_Logica\Prueba_Logica\obj\Debug\net6.0\Prueba_Logica.csproj.AssemblyReference.cache
+B:\Proyectos\Proyectos C#\Prueba_Logica\Prueba_Logica\obj\Debug\net6.0\Prueba_Logica.GeneratedMSBuildEditorConfig.editorconfig
+B:\Proyectos\Proyectos C#\Prueba_Logica\Prueba_Logica\obj\Debug\net6.0\Prueba_Logica.AssemblyInfoInputs.cache
+B:\Proyectos\Proyectos C#\Prueba_Logica\Prueba_Logica\obj\Debug\net6.0\Prueba_Logica.AssemblyInfo.cs
+B:\Proyectos\Proyectos C#\Prueba_Logica\Prueba_Logica\obj\Debug\net6.0\Prueba_Logica.csproj.CoreCompileInputs.cache
+B:\Proyectos\Proyectos C#\Prueba_Logica\Prueba_Logica\obj\Debug\net6.0\Prueba_Logica.dll
+B:\Proyectos\Proyectos C#\Prueba_Logica\Prueba_Logica\obj\Debug\net6.0\refint\Prueba_Logica.dll
+B:\Proyectos\Proyectos C#\Prueba_Logica\Prueba_Logica\obj\Debug\net6.0\Prueba_Logica.pdb
+B:\Proyectos\Proyectos C#\Prueba_Logica\Prueba_Logica\obj\Debug\net6.0\Prueba_Logica.genruntimeconfig.cache
+B:\Proyectos\Proyectos C#\Prueba_Logica\Prueba_Logica\obj\Debug\net6.0\ref\Prueba_Logica.dll
